@@ -10,3 +10,6 @@ __pycache__/
 *.pyc
 .env
 *.env
+
+# Virtual environment
+venv/
