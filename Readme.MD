@@ -1,4 +1,4 @@
-# Online Retail Analysis
+#Online Retail Analysis
 
 End-to-end analysis of ~542,000 transactions from a UK-based online gift retailer
 (December 2010 – December 2011) — covering pricing structure, customer segmentation,
@@ -71,9 +71,9 @@ is a single product line within an invoice. Publicly available and reproducible.
 ## Running it
 
 ```bash
-git clone https://github.com/filipburger/online-retail-analysis.git
-cd online-retail-analysis
-pip install pandas numpy matplotlib seaborn plotly scipy scikit-learn openpyxl
+git clone https://github.com/filipburger/retail_analysis.git
+cd retail_analysis
+pip install -r requirements.txt
 jupyter notebook retail_analysis.ipynb
 ```
 
