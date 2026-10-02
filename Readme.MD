@@ -1,4 +1,4 @@
-#Online Retail Analysis
+# Online Retail Analysis
 
 End-to-end analysis of ~542,000 transactions from a UK-based online gift retailer
 (December 2010 – December 2011) — covering pricing structure, customer segmentation,
