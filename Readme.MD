@@ -30,6 +30,23 @@ while being explicit about the limits of the underlying data.
   comparison suggests +20.2% YoY, but 13 months of data (with a partial final month)
   can't separate seasonality from underlying growth — treated as indicative only.
 
+## Actionable insights
+
+1. **Capture cost at source.** The analysis is revenue-only — we see what sells, not
+   what's profitable. Adding unit cost is the single highest-leverage data change.
+2. **Add graduated bulk discounts.** Pricing is effectively binary: full retail or a deep
+   wholesale rate that kicks in at tiny order sizes. Intermediate tiers would capture
+   margin from small-wholesale buyers and give customers a reason to grow their orders.
+3. **Define customer segments by business rules, then serve each one.** Clustering found
+   no natural boundary, so thresholds should be set deliberately. The top 20% of customers
+   drive 63% of revenue — retail and wholesale buyers each deserve a tailored approach.
+4. **Concentrate operations on the active window.** Less than 2% of orders fall outside
+   08:00–18:00. Keeping teams focused during peak hours rather than spread across low-traffic
+   periods is a straightforward efficiency gain.
+5. **Grow internationally and reduce UK dependency.** 85% of revenue is UK. The Netherlands
+   is the strongest non-UK market but is dominated by a single wholesaler — worth deciding
+   whether to keep routing through one large account or sell directly at better margins.
+
 ## Methods
 
 - Spearman correlation for skewed pricing data (Pearson shown for contrast)
